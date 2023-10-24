@@ -1,0 +1,13 @@
+{
+    "availableModes":[
+        "Solo",
+        "Squads",
+        "redvsblue",
+        "minemayhem"
+    ],
+    "mode":"minemayhem",
+    "account":{
+        "email":"game777@game.g",
+        "password":"game7771"
+    }
+}
